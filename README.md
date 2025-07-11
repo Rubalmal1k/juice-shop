@@ -1,3 +1,7 @@
+
+  ghp_1234567890abcdefghijklmnopqrstuvwxyzEXAMPLETOKEN
+ qarhvjbjdfj244o9v.jtruh,nt2rggbknhv#
+  
   ghp_1234567890abcdefghijklmnopqrstuvwxyzEXAMPLETOKEN
  qarhvjbjdfj244o9v.jtruh,nt2rggbknhv# ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
